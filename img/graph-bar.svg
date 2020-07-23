@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="149" viewBox="0 0 370 149">
+    <g fill="none" fill-rule="evenodd">
+        <path fill-rule="nonzero" stroke="#D8D8D8" stroke-dasharray="2 2" stroke-width=".5" d="M20.4 37.8h349M20.4 8.2h349M20.4 69.8h349M20.4 101.8h349M20.4 133.8h349" opacity=".571" transform="translate(0 -3)"/>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="0" y="41">60</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="0" y="11">80</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="0" y="72">40</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="0" y="102">20</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="0" y="137">00</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="20" y="148.6">Jan</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="48" y="148.6">Feb</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="79" y="148.6">Mar</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="111" y="148.6">Apr</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="140.5" y="148.6">May</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="174.5" y="148.6">Jun</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="202.5" y="148.6">Jul</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="227" y="148.6">Aug</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="259" y="148.6">Sep</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="289" y="148.6">Oct</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="318" y="148.6">Nov</tspan>
+        </text>
+        <text fill="#000" font-family="OpenSans-Light, Open Sans" font-size="10" font-weight="300" transform="translate(0 -3)">
+            <tspan x="349" y="148.6">Dec</tspan>
+        </text>
+        <path fill="#6672FB" d="M27.4 128.2H30.599999999999998V134.2H27.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M27.4 101.8H30.599999999999998V124.8H27.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M56.4 122H59.6V134H56.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M56.4 92.2H59.6V113.2H56.4z" transform="translate(0 -3)"/>
+        <path fill="#F7B500" d="M56 111.6H60V123.6H56z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M87.4 126.2H90.60000000000001V134.2H87.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M87.4 80.4H90.60000000000001V125.4H87.4z" transform="translate(0 -3)"/>
+        <path fill="#F7B500" d="M87 124H91V130H87z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M118.4 131.2H121.60000000000001V134.2H118.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M118.4 73.4H121.60000000000001V110.4H118.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M150.4 129H153.6V134H150.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M150.4 62.4H153.6V101.4H150.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M181.4 124H184.6V134H181.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M181.4 57.4H184.6V108.4H181.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M207.4 132.6H210.6V134.6H207.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M207.4 53.4H210.6V103.4H207.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M236.4 129.6H239.6V134.6H236.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M236.4 47.4H239.6V113.4H236.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M267.4 127.6H270.59999999999997V134.6H267.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M267.4 43.4H270.59999999999997V110.4H267.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M296.4 132.6H299.59999999999997V134.6H296.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M296.4 38.4H299.59999999999997V120.4H296.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M326.4 127.6H329.59999999999997V134.6H326.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M326.4 30.4H329.59999999999997V110.4H326.4z" transform="translate(0 -3)"/>
+        <path fill="#6672FB" d="M357.4 130.6H360.59999999999997V134.6H357.4z" transform="translate(0 -3)"/>
+        <path fill="#D8D8D8" d="M357.4 22.4H360.59999999999997V122.4H357.4z" transform="translate(0 -3)"/>
+        <path fill="#F7B500" d="M118 93.8H122V131.8H118zM150 82H154V129H150zM181 107.4H185V124.4H181zM207 66H211V133H207zM236 100.6H240V130.6H236zM267 103.4H271V128.4H267zM296 47.6H300V132.6H296zM326 101.6H330V129.6H326zM27 107.4H31V128.4H27zM357 51.6H361V130.6H357z" transform="translate(0 -3)"/>
+    </g>
+</svg>
